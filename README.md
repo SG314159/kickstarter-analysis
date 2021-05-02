@@ -19,7 +19,7 @@ From this data, it appears that as campaigns get more expensive goals, they are 
 
 
 ### Challenges and Difficulties Encountered
-Though I did not have any major challenges, there are some difficult pieces of this analysis. First, a number of the data fields are textual or categorical in nature. These sometimes can be more difficult to analyze because of possible dirty data (misspellings and abbreviations) and because they are often not ordered and certainly not quantitative. Thus, calculating means and averages is trickier. If the data has lots of free-form data (e.g. Tweets or book reviews), the problem is even more complex to analyze due to the nature of language complexity.
+Though I did not have any major challenges, there are some difficult pieces of this analysis. First, a number of the data fields are textual or categorical in nature. These sometimes can be more difficult to analyze because of possible dirty data (misspellings and abbreviations) and because they are often not ordered and certainly not quantitative. If the data has lots of free-form data (e.g. Tweets or book reviews), the problem is even more complex to analyze due to the nature of language complexity.
 I am grateful for the chance to learn about pivot tables and that you can filter related charts as well.
 
 
